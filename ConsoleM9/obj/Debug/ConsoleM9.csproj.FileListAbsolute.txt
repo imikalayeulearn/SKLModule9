@@ -1,0 +1,7 @@
+E:\VC_Projects\projects\Module9\SKLModule9\ConsoleM9\bin\Debug\ConsoleM9.exe.config
+E:\VC_Projects\projects\Module9\SKLModule9\ConsoleM9\bin\Debug\ConsoleM9.exe
+E:\VC_Projects\projects\Module9\SKLModule9\ConsoleM9\bin\Debug\ConsoleM9.pdb
+E:\VC_Projects\projects\Module9\SKLModule9\ConsoleM9\obj\Debug\ConsoleM9.csproj.AssemblyReference.cache
+E:\VC_Projects\projects\Module9\SKLModule9\ConsoleM9\obj\Debug\ConsoleM9.csproj.CoreCompileInputs.cache
+E:\VC_Projects\projects\Module9\SKLModule9\ConsoleM9\obj\Debug\ConsoleM9.exe
+E:\VC_Projects\projects\Module9\SKLModule9\ConsoleM9\obj\Debug\ConsoleM9.pdb

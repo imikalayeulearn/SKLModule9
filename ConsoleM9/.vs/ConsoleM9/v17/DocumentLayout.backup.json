@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VC_Projects\\projects\\Module9\\SKLModule9\\ConsoleM9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED9E460-33B4-4E0E-8DE3-07016A1D28CA}|ConsoleM9.csproj|e:\\vc_projects\\projects\\module9\\sklmodule9\\consolem9\\exceptionstask\\incorrectchoiceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED9E460-33B4-4E0E-8DE3-07016A1D28CA}|ConsoleM9.csproj|solutionrelative:exceptionstask\\incorrectchoiceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED9E460-33B4-4E0E-8DE3-07016A1D28CA}|ConsoleM9.csproj|e:\\vc_projects\\projects\\module9\\sklmodule9\\consolem9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED9E460-33B4-4E0E-8DE3-07016A1D28CA}|ConsoleM9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED9E460-33B4-4E0E-8DE3-07016A1D28CA}|ConsoleM9.csproj|e:\\vc_projects\\projects\\module9\\sklmodule9\\consolem9\\eventstask\\sorttypereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED9E460-33B4-4E0E-8DE3-07016A1D28CA}|ConsoleM9.csproj|solutionrelative:eventstask\\sorttypereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED9E460-33B4-4E0E-8DE3-07016A1D28CA}|ConsoleM9.csproj|e:\\vc_projects\\projects\\module9\\sklmodule9\\consolem9\\eventstask\\sortmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED9E460-33B4-4E0E-8DE3-07016A1D28CA}|ConsoleM9.csproj|solutionrelative:eventstask\\sortmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncorrectChoiceException.cs",
+              "DocumentMoniker": "E:\\VC_Projects\\projects\\Module9\\SKLModule9\\ConsoleM9\\ExceptionsTask\\IncorrectChoiceException.cs",
+              "RelativeDocumentMoniker": "ExceptionsTask\\IncorrectChoiceException.cs",
+              "ToolTip": "E:\\VC_Projects\\projects\\Module9\\SKLModule9\\ConsoleM9\\ExceptionsTask\\IncorrectChoiceException.cs",
+              "RelativeToolTip": "ExceptionsTask\\IncorrectChoiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:11:38.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VC_Projects\\projects\\Module9\\SKLModule9\\ConsoleM9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VC_Projects\\projects\\Module9\\SKLModule9\\ConsoleM9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:52:51.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortTypeReader.cs",
+              "DocumentMoniker": "E:\\VC_Projects\\projects\\Module9\\SKLModule9\\ConsoleM9\\EventsTask\\SortTypeReader.cs",
+              "RelativeDocumentMoniker": "EventsTask\\SortTypeReader.cs",
+              "ToolTip": "E:\\VC_Projects\\projects\\Module9\\SKLModule9\\ConsoleM9\\EventsTask\\SortTypeReader.cs",
+              "RelativeToolTip": "EventsTask\\SortTypeReader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:37:40.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortManager.cs",
+              "DocumentMoniker": "E:\\VC_Projects\\projects\\Module9\\SKLModule9\\ConsoleM9\\EventsTask\\SortManager.cs",
+              "RelativeDocumentMoniker": "EventsTask\\SortManager.cs",
+              "ToolTip": "E:\\VC_Projects\\projects\\Module9\\SKLModule9\\ConsoleM9\\EventsTask\\SortManager.cs",
+              "RelativeToolTip": "EventsTask\\SortManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:09:14.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
