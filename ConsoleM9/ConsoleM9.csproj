@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EventsTask\SortManager.cs" />
+    <Compile Include="EventsTask\SortTypeReader.cs" />
     <Compile Include="ExceptionsTask\ExceptionHandler.cs" />
     <Compile Include="ExceptionsTask\IncorrectChoiceException.cs" />
     <Compile Include="Program.cs" />

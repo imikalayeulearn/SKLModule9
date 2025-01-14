@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleM9.EventsTask;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -45,6 +46,8 @@ namespace ConsoleM9
                     break;
                 case 2:
                     DisplayTask("Task2.txt");
+                    SortManager manager = new SortManager();
+                    manager.RunManager();
                     break;
             }
         }
